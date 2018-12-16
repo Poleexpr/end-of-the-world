@@ -1,2 +1,2 @@
 # end-of-the-world
-short description
+a bit about myself 
